@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 21 Mar 2022 17:40:17 at https://games4mobile.xyz/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://games4mobile.xyz/ -O1 "C:\Users\laPtoP.DalAl-2019\Videos\gta" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:40:31	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://games4mobile.xyz/js/ipscript.js
+17:40:31	Error: 	"Not Found" (404) at link https://games4mobile.xyz/path/to/font-awesome/css/font-awesome.min.css (from https://games4mobile.xyz/)
+17:40:31	Error: 	"Not Found" (404) at link https://05apps.us/fonts.googleapis.com/csse092.css?family=Open+Sans:400,300,600 (from https://games4mobile.xyz/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 21 seconds : 17 links scanned, 14 files written (2136937 bytes overall) [964708 bytes received at 45938 bytes/sec], 1421242 bytes transferred using HTTP compression in 7 files, ratio 16%, 2.8 requests per connection
+(2 errors, 1 warnings, 0 messages)
